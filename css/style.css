@@ -41,13 +41,6 @@ h4 {
   background-color: #dd4444;
   box-shadow:  -1px 1px rgb(168, 36, 39), -2px 2px rgb(168, 36, 39), -3px 3px rgb(168, 36, 39), -4px 4px rgb(168, 36, 39), -5px 5px rgb(168, 36, 39);
  }
-h4.dubious:hover {
-  background: linear-gradient(
-    to right,
-    #a00,
-    #700
-  );
-}
 
 .column {
   width: 30%;
@@ -67,6 +60,7 @@ h4.dubious:hover {
   width: 303%;
 }
 
-.column img {
-  border: solid;
+img {
+  border: solid gray 1px;
+  box-sizing: border-box;
 }
