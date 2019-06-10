@@ -38,14 +38,14 @@ h4 {
 
 .dubious {
   border: 1px solid #dd4444;
-  background-color: #dd4444;
-  box-shadow:  -1px 1px rgb(168, 36, 39), -2px 2px rgb(168, 36, 39), -3px 3px rgb(168, 36, 39), -4px 4px rgb(168, 36, 39), -5px 5px rgb(168, 36, 39);
+  box-shadow:  -1px 1px #dd4444, -2px 2px #dd4444, -3px 3px #dd4444, -4px 4px #dd4444, -5px 5px #dd4444;
+  background-color: #ff6666;x 2px rgb(168, 36, 39), -3px 3px rgb(168, 36, 39), -4px 4px rgb(168, 36, 39), -5px 5px rgb(168, 36, 39);
  }
 
 .column {
   width: 30%;
   display: inline-block;
-    margin: 5px;
+  margin: 5px;
 }
 
 .small {
