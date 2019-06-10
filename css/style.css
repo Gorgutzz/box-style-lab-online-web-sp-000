@@ -97,6 +97,7 @@ h4.dubious:hover {
   width: 303%;
 }
 
-.column img {
-  border: solid;
+img {
+  border: solid gray 1px;
+  box-sizing: border-box;
 }
