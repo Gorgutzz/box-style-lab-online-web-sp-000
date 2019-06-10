@@ -32,9 +32,10 @@ h4 {
 }
 
 .indifferent {
-  border: 1px solid #dddd22;
   background-color: #dddd22;
+  border: 1px solid #dddd22;
   box-shadow:  -1px 1px rgb(170, 169, 34), -2px 2px rgb(170, 169, 34), -3px 3px rgb(170, 169, 34), -4px 4px rgb(170, 169, 34), -5px 5px rgb(170, 169, 34);
+}
 }
 
 .dubious {
